@@ -1,0 +1,1 @@
+This folder will contain our models output predictions that we submit to kaggle
