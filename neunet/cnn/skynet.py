@@ -9,6 +9,8 @@ from keras.layers.normalization import BatchNormalization
 from keras.layers.core import Dropout
 import keras.backend as K
 
+
+# skynet name is stupid --- should just call this minivggnet.py lol
 class MiniVGGNet:
   @staticmethod
   def build(width, height, depth, classes):
